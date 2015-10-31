@@ -1,4 +1,4 @@
-# image-ninja
+# Mojolicious::Plugin::ImageNinja
 Mojolicious plugin to manipulate images on the fly
 
 
